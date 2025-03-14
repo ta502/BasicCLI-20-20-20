@@ -1,4 +1,4 @@
-package src.Main;
+package src;
 
 import java.awt.*;
 import java.util.InputMismatchException;
